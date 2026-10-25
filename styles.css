@@ -28,3 +28,13 @@
 .contact-links span{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#8da5bb;font-weight:700}
 .contact-links strong{font-size:15px;color:#edf4fa;overflow-wrap:anywhere}
 @media(max-width:650px){.contact-links{grid-template-columns:1fr}}
+
+
+/* Expanded YVR experience */
+.experience-details{margin-top:25px}
+.experience-item{padding:22px 0;border-top:1px solid #34485f}
+.experience-item:last-child{padding-bottom:0}
+.experience-item h4{font:700 16px 'Space Grotesk',sans-serif;color:#edf4fa;margin:0 0 9px}
+.experience-item p{font-size:14px;line-height:1.8;color:#afbed0;margin:0}
+.experience-tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:14px}
+.experience-tags span{font-size:11px;color:#c6d7e9;background:#243449;border:1px solid #34485f;border-radius:5px;padding:6px 9px}
